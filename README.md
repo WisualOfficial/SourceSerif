@@ -14,3 +14,5 @@ A Magisk-based font module.
 3. **SimSun-ExtG** as supplemental Chinese font.
 4. **Segoe UI Emoji** as default Emoji font.
    * Support Emoji 15.1. Copied from Windows 10.0.27723.1000.
+5. *__Segoe UI Variable__*
+## Thing to do
