@@ -9,11 +9,11 @@ A Magisk-based font module.
     * Including Play store, other customized font apps such as X (Twitter) is not changed.
     * If fonts in Play store recovered to default, run `service.sh` in the module folder manually.
 ## Fonts
-1. **Source Serif 4** as default English font.
-2. **Noto Serif CJK** as default Chinese, Japanese, Korean fonts.
+1. **Source Serif 4**<sup>4.005</sup> as default English font.
+2. **Noto Serif CJK**<sup>2.003</sup> as default Chinese, Japanese, Korean fonts.
 3. **SimSun-ExtG** as supplemental Chinese font.
-4. **Segoe UI Emoji** as default Emoji font.
+4. **Segoe UI Emoji**<sup>1.51</sup> as default Emoji font.
    * Support Emoji 15.1. Copied from Windows 10.0.27723.1000.
-5. **Noto Color Emoji** as supplemental  Emoji font, as Flags are not included in Segoe UI Emoji.
-6. *__Segoe UI Variable__*
+5. **Noto Color Emoji**<sup>2.047</sup> as supplemental  Emoji font, as Flags are not included in Segoe UI Emoji.
+6. *__Segoe UI Variable__*<sup>2.03</sup>
 ## Thing to do
