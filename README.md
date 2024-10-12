@@ -3,7 +3,6 @@ A Magisk-based font module.
 ## Requirements
 1. Having Magisk <sup>26100</sup> or newer installed in system.
 2. Android <sup>12 ~ 14</sup>.
-   > [!WARNING]
     * Module was only tested on Android <sup>12~14</sup>. **If you are going to use on other versions, flash at your own risk**.
 ## Features
 * Setting **Source Serif 4** as your system font.
