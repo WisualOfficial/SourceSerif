@@ -1,7 +1,7 @@
 # Source Serif
 A Magisk-based font module.
 ## Requirements
-1. Having Magisk <sup>26100</sup> or newer installed in system.
+1. Rooted with Magisk <sup>26100</sup> or newer.
 2. Android <sup>12~14</sup>.
     * Module was only tested on Android <sup>12~14</sup>. **If you are going to use on other versions, flash at your own risk**.
 ## Features
@@ -15,7 +15,7 @@ A Magisk-based font module.
 4. **SimSun-ExtB**<sup>5.07</sup> as supplemental Chinese font.
 5. **SimSun-ExtG**<sup>1.00</sup> as supplemental Chinese font.
 6. **Segoe UI Emoji**<sup>1.51</sup> as default Emoji font.
-   * Support Emoji 15.1. Copied from Windows 10.0.27723.1000.
+   * Support Emoji 15.1. Copied from Windows<sup>10.0.27723.1000</sup>.
 7. **Noto Color Emoji**<sup>2.047</sup> as supplemental  Emoji font, as Flags are not included in Segoe UI Emoji.
 8. *__Segoe UI Variable__*<sup>2.03</sup>
 ## Thing to do
