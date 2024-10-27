@@ -9,13 +9,16 @@ A Magisk-based font module.
     * Including Play store, other customized font apps such as X (Twitter) is not changed.
     * If fonts in Play store recovered to default, run `service.sh` in the module folder manually.
 ## Fonts
-1. **Noto Serif CJK**<sup>2.003</sup> as default English, Chinese, Japanese, Korean fonts.
-2. **SimSun**<sup>5.23</sup> as supplemental Chinese font.
-3. **SimSun-ExtB**<sup>5.07</sup> as supplemental Chinese font.
-4. **SimSun-ExtG**<sup>1.00</sup> as supplemental Chinese font.
-5. **MiSans L3**
-6. **Segoe UI Emoji**<sup>1.51</sup> as default Emoji font.
+1. **Source Serif Display**<sup>4.005</sup> as default English font.
+2.  **Noto Serif CJK**<sup>2.003</sup> as default Chinese, Japanese, Korean font.
+3. **SimSun**<sup>5.23</sup> as supplemental Chinese font.
+4. **SimSun-ExtB**<sup>5.07</sup> as supplemental Chinese font.
+5. **SimSun-ExtG**<sup>1.00</sup> as supplemental Chinese font.
+6. **MiSans L3**
+7. **Segoe UI Emoji**<sup>1.51</sup> as default Emoji font.
    * Support Emoji 15.1. Copied from Windows<sup>10.0.27723.1000</sup>.
-7. **Noto Color Emoji**<sup>2.047</sup> as supplemental  Emoji font, as Flags are not included in Segoe UI Emoji.
-8. **Segoe UI Variable**<sup>2.03</sup> as replacement of Google Sans Clock.
+8. **Noto Color Emoji**<sup>2.047</sup> as supplemental  Emoji font, as Flags are not included in Segoe UI Emoji.
+9. **Segoe UI Variable**<sup>2.03</sup> as replacement of Google Sans Clock.
 ## Thing to do
+1. Planned to fix text sinking on Android 14.
+2. Planned on supporting Android 15.
