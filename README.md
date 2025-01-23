@@ -14,8 +14,7 @@ A Magisk-based font module.
 3. **SimSun**<sup>5.23</sup> as supplemental Chinese font.
 4. **SimSun-ExtB**<sup>5.07</sup> as supplemental Chinese font.
 5. **SimSun-ExtG**<sup>1.00</sup> as supplemental Chinese font.
-6. **MiSans L3**
-7. **Segoe UI Emoji**<sup>1.51</sup> as default Emoji font.
+6. **Segoe UI Emoji**<sup>1.51</sup> as default Emoji font.
    * Support Emoji 15.1. Copied from Windows<sup>10.0.27723.1000</sup>.
-8. **Noto Color Emoji**<sup>2.047</sup> as supplemental  Emoji font, as Flags are not included in Segoe UI Emoji.
-9. **Segoe UI Variable**<sup>2.03</sup> as replacement of Google Sans Clock.
+7. **Noto Color Emoji**<sup>2.047</sup> as supplemental  Emoji font, as Flags are not included in Segoe UI Emoji.
+8. **Segoe UI Variable**<sup>2.03</sup> as replacement of Google Sans Clock.
