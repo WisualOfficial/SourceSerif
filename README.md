@@ -2,8 +2,8 @@
 A Magisk-based font module.
 ## Requirements
 1. Rooted with Magisk <sup>26100</sup> or newer.
-2. Android <sup>12~14</sup>.
-    * Module was only tested on Android <sup>12~14</sup>. **If you are going to use on other versions, flash at your own risk**.
+2. Android <sup>12</sup>.
+    * Module was only tested on Android <sup>14</sup>. **If you are going to use on other versions, flash at your own risk**.
 ## Features
 * Setting **Source Serif 4** as your system font.
     * Including Play store, other customized font apps such as X (Twitter) is not changed.
@@ -19,6 +19,3 @@ A Magisk-based font module.
    * Support Emoji 15.1. Copied from Windows<sup>10.0.27723.1000</sup>.
 8. **Noto Color Emoji**<sup>2.047</sup> as supplemental  Emoji font, as Flags are not included in Segoe UI Emoji.
 9. **Segoe UI Variable**<sup>2.03</sup> as replacement of Google Sans Clock.
-## Thing to do
-1. Planned to fix text sinking on Android 14.
-2. Planned on supporting Android 15.
