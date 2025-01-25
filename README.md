@@ -6,13 +6,13 @@
 # Source Serif
 A Magisk-based font module.
 ## Requirements
-1. Rooted with Magisk <sup>26100</sup> or newer.
+1. Root with Magisk <sup>26100</sup> or newer.
 2. Android <sup>12</sup>.
     * Module was only tested on Android <sup>14</sup>. **On other versions, flash at your own risk**.
 ## Features
 * Setting **Source Serif 4** as your system font.
     * Including Play store, other customized font apps such as X (Twitter) is not changed.
-    * If fonts in Play store recovered to default, run `service.sh` in the module folder manually.
+    * If fonts in Play store recovered to default, run action in magisk manager manually.
 ## Fonts
 1. **Source Serif Display**<sup>4.005</sup> as default English font.
 2.  **Noto Serif CJK**<sup>2.003</sup> as default Chinese, Japanese, Korean font.
