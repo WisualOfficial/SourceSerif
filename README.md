@@ -1,3 +1,7 @@
+<p align="center">
+<img src="assets/mm_facetoface_collect_qrcode_1737769237737~2.png" width="48px"/>
+<img src="assets/1737769403554~2.jpg.png" width="48px"/>
+</p>
 # Source Serif
 A Magisk-based font module.
 ## Requirements
