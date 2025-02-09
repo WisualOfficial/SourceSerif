@@ -7,8 +7,8 @@
 A Magisk-based font module.
 ## Requirements
 1. Root with Magisk <sup>26100</sup> or newer.
-2. Android <sup>12</sup> or newer.
-    * Module was only tested on Android <sup>14</sup> and Android <sup>15</sup>. **On other versions, flash at your own risk**.
+2. Android <sup>15</sup> or newer.
+    * Module was only tested on Android <sup>15</sup>. **On other versions, due to the missing of font.xml, will not work**.
 ## Features
 * Setting **Source Serif 4** as your system font.
     * Including Play store, other customized font apps such as X (Twitter) is not changed.
